@@ -1,0 +1,21 @@
+{
+	"colors": {
+		"AlternateBase": "#171414",
+		"Base": "#171414",
+		"BrightText": "##ff2222",
+		"Button": "#171414",
+		"ButtonText": "##ff2222",
+		"Highlight": "#b01a1a",
+		"HighlightedText": "##ff2222",
+		"Link": "#5f999d",
+		"Text": "##ff2222",
+		"ToolTipBase": "#b01a1a",
+		"ToolTipText": "##ff2222",
+		"Window": "#171414",
+		"WindowText": "##ff2222",
+		"fadeAmount": 0.5,
+		"fadeColor": "#7f1111"
+	},
+	"name": "SRS-Technologies™",
+	"widgets": "Fusion"
+}

@@ -1,0 +1,54 @@
+/* courtesy of the srs  */
+
+
+QToolTip { color: #ffffff;
+           background-color: #171714;
+           border: 2px solid #ffffff;
+}
+
+/* MAIN */
+QMainWindow,
+QDockWidget {
+    background-color: #171714;
+}
+
+QWidget {
+    border-color: #ff0000;
+    font-family: "Fira Code Semibold", serif;
+}
+
+QObject::separator,
+QObject::handle {
+    outline: 1;
+    outline-color: #ff2222;
+    selection-color: #171714;
+    border-radius: 2px;
+    selection-background-color: #ff0000;
+    alternate-background-color: transparent;
+}
+
+QToolButton {
+    background-color: #171714;
+    color: #ffffff;
+	border: 1px solid #ff2222;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+QToolButton:hover {
+    background-color: #ff2222;
+    color: #ffffff;
+}
+
+QToolButton:pressed {
+    background-color: #ff0000;
+    color: #ffffff
+}
+
+QToolButton:on {
+    background-color: #7f1111
+    color: #ffffff
+}
