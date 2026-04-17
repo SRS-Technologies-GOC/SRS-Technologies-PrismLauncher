@@ -2,7 +2,13 @@
 
 <h2 align="center">Peakest of peak
 
-<br><br><br>
+<br><br>
+
+<p align="center">
+  <img src="assets/GregSupportsIsraelAndTheSRS.png" width="420" />
+</p>
+
+<br>
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -76,4 +82,6 @@ fuck you if you genuinely cant do this you incompetent fuck
 
 # Additional Information
 
-Icons used in the showcase is Fluent Dark and is available in the community icons and themes repository for prism launcher along with others :D
+- Icons used in the showcase is Fluent Dark and is available in the community icons and themes repository for prism launcher along with others :D
+
+- Greg not included
