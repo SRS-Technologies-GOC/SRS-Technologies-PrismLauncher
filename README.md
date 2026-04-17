@@ -1,10 +1,52 @@
-# SRS-Technologies-PrismLauncher
-- no icons (YET) soon tho
+<h1 align="center"> SRS-Technologies-PrismLauncher
+
+<h2 align="center">Peakest of peak
+
+<br><br><br>
+
 ------------------------------------------------------------------------------------------------------------------
 
-# Showcase
+<h1 align="center">Showcase</h1>
 
-if corey has not put images here within 1 week of this please spam @ him <3
+<br><br>
+
+<h1 align="center"> Main Menu
+
+<p align="center">
+  <img src="assets/1.png" width="500" />
+</p>
+
+<br>
+
+<h1 align="center"> Instance Creator
+
+<p align="center">
+  <img src="assets/2.png" width="500" />
+</p>
+
+<h1 align="center"> Settings | Appearance
+
+<br>
+
+<p align="center">
+  <img src="assets/3.png" width="500" />
+</p>
+
+<h1 align="center"> Settings | General
+
+<p align="center">
+  <img src="assets/4.png" width="500" />
+</p>
+
+<br>
+
+<h1 align="center"> Mods Viewer | Supersymmetry
+
+<p align="center">
+  <img src="assets/5.png" width="500" />
+</p>
+
+<br><br><br>
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -29,3 +71,9 @@ exert force on left mouse over refresh and be happy
 ------------------------------------------------------------------------------------------------------------------
 
 fuck you if you genuinely cant do this you incompetent fuck
+
+------------------------------------------------------------------------------------------------------------------
+
+# Additional Information
+
+Icons used in the showcase is Fluent Dark and is available in the community icons and themes repository for prism launcher along with others :D
