@@ -85,3 +85,5 @@ fuck you if you genuinely cant do this you incompetent fuck
 - Icons used in the showcase is Fluent Dark and is available in the community icons and themes repository for prism launcher along with others :D
 
 - Greg not included
+
+- Using this theme is proven to decrease eye pain, decrease local wild life population and increase RBMK output. Source: me
